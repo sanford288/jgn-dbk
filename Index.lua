@@ -158,7 +158,7 @@ Frame.ClipsDescendants = false
 
 local FrameCorner = Instance.new("UICorner")
 FrameCorner.Parent = Frame
-FrameCorner.CornerRadius = UDim.new(0,20)
+FrameCorner.CornerRadius = UDim.new(0,5)
 
 local Stroke = Instance.new("UIStroke")
 Stroke.Parent = Frame
