@@ -193,7 +193,7 @@ TopBar.Active = true
 
 local TopCorner = Instance.new("UICorner")
 TopCorner.Parent = TopBar
-TopCorner.CornerRadius = UDim.new(0,5)
+TopCorner.CornerRadius = UDim.new(0,0.1)
 
 -- TITLE
 local Title = Instance.new("TextLabel")
